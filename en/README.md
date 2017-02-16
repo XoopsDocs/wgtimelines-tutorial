@@ -1,12 +1,12 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](en/assets/logoXoops.jpg)
+![logoXoops.jpg](assets/logoXoops.jpg)
 
 # Module wgTimelines
 #### Version: 1.06
 #### for XOOPS 2.5.7/XOOPS 2.5.8
 #### for PHP 5.5, 5.6 and 7.0
 
-![logoModule.png](en/assets/logoModule.png)
+![logoModule.png](assets/logoModule.png)
             
 ## User Manual
 
@@ -20,21 +20,21 @@ You can defined various timelines and decide between different styles (html, boo
 
 Almost all templates on user side are fully responsive.
 
->![](en/assets/info/important.png) **This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
+**This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
 
-![0dashboard1.png](en/assets/0dashboard.png)<br/>
+![0dashboard1.png](assets/0dashboard.png)<br/>
 *Figure 1: Main view of the wgTimelines Module (Admin side)*
 
 # Table of Content
 
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Module Credits](en/book/9credits.md)
+* [Install/Uninstall](book/1install.md)
+* [Administration Menu](book/2administration.md)
+* [Preferences](book/3preferences.md)
+* [Operating Instructions](book/4operations.md)
+* [The User Side](book/5userside.md)
+* [Blocks](book/6blocks.md)
+* [Templates](book/7templates.md)
+* [Module Credits](book/9credits.md)
 
 ##License:
 

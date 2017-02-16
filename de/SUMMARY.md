@@ -1,0 +1,16 @@
+# Inhaltsverzeichnis
+
+* [Einleitung](README.md)
+* [(De-)Installation](book/1install.md)
+* [Administrationsbereich](book/2administration.md)
+   * [Zeitreihen](book/2admin_timelines.md)
+   * [Einträge](book/2admin_items.md)
+   * [Vorlagen](book/2admin_templates.md)
+   * [Über](book/2admin_about.md)
+   * [Hilfe](book/2admin_help.md)
+* [Einstellungen](book/3preferences.md)
+* [Operative Anweisungen](book/4operations.md)
+* [Benutzerbereich](book/5userside.md)
+* [Blöcke](book/6blocks.md)
+* [Templates](book/7templates.md)
+* [Modul Credits](book/9credits.md)
