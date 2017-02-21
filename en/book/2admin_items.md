@@ -5,7 +5,7 @@ You can define various members, which you can later combine with one or more tea
 #### 2.2.1 List items
 On the dashboard tab 'Items' you see a list of the existing items.
 ![](../assets/2admin_items_list.png)
-You can change the sort order by drag&drop. Whether you use sort by date or weight you have to decide in the settings for the timelines (see also [Timelines](2admin_timelines.md)
+You can change the sort order by drag&drop. Whether you use sort by date or weight you have to decide in the settings for the timelines (see also [Timelines](2admin_timelines.md)).
 
 #### 2.2.2 Add/edit items
 ![](../assets/2admin_items_add.png)
@@ -24,7 +24,7 @@ You can add one image to your item (optional)
 
 #### Date/Time
 Please enter the date for the item (optional). Depending on the template and the settings in the template it will be shown or not.
-The format you have to define in the settings of the timeline (see also [Timelines](2admin_timelines.md).
+The format you have to define in the settings of the timeline (see also [Timelines](2admin_timelines.md)).
 
 #### Year
 Please enter the year for the item (optional). Depending on the template and the settings in the template it will be shown or not.
