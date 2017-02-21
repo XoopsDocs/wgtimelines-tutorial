@@ -30,6 +30,9 @@ Bitte Sortierreihenfolge für die Anzeige aus Userseite definieren
 Sofern eine Zeichenbegrenzung festgelegt wurde, werden auf der Userseite maximal diese Anzahl an Zeichen angezeigt. Bei Überschreitung der Zeichenbegrenzung wird ein "Mehr lesen"-Link angezeigt.
 0 bedeutet kein Limit.
 
+#### Datum/Uhrzeit anzeigen
+Wenn die Vorlage dies unterstützt können Sie entscheiden, ob Sie das Datum eines Eintrages anzeigen wollen, und zwar nur das Datum oder nur die Uhrzeit oder beides.
+
 #### Online
 Bitte festlegen, ob die Zeitreihe bereits auf der Userseite angezeigt werden soll.
  

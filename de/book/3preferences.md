@@ -62,3 +62,6 @@ Disqus-Kommentare in den Seiten zulassen
 
 #### Startseite
 Definieren Sie bitte, welche Informationen beim Modulaufruf (index.php) angezeigt werden sollen
+
+#### Magnific Popup verwenden
+Definieren Sie bitte, ob die Bilder bei den Einträgen mittels jquery magnific-popup gezoomt werden können sollen

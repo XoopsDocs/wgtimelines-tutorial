@@ -22,8 +22,9 @@ Please enter a content for the item
 #### Image
 You can add one image to your item (optional)
 
-#### Date
+#### Date/Time
 Please enter the date for the item (optional). Depending on the template and the settings in the template it will be shown or not.
+The format you have to define in the settings of the timeline (see also [Timelines](2admin_timelines.md).
 
 #### Year
 Please enter the year for the item (optional). Depending on the template and the settings in the template it will be shown or not.

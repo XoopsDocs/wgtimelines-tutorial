@@ -29,6 +29,9 @@ Select the sort order for displaying on user side
 If the number of characters is limited, on user side will be shown only this number of characters. If exceeding this limit, a "Read more"-link will be shown.
 0 means no limit.
 
+#### Show date/time
+If the template supports the display of date or time of an item you can decide, whether you want to display nothing, only the date or only the time or both.
+
 #### Online
 Select, whether the timeline should be shown on userside
  

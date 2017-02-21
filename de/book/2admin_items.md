@@ -22,8 +22,9 @@ Bitte den Inhalt für Ihren Eintrag eingeben
 #### Bild
 Sie können Ihrem Eintrag ein Bild hinzufügen (optional)
 
-#### Datum
-Bitte das Datum für den Eintrag eingeben (optional). Entsprechend der Vorlage bzw. den Einstellungen bei der jeweiligen Vorlage wird dies angezeigt oder nicht.
+#### Datum/Uhrzeit
+Bitte das Datum bzw. die Uhrzeit für den Eintrag eingeben (optional). Entsprechend der Vorlage bzw. den Einstellungen bei der jeweiligen Vorlage wird dies angezeigt oder nicht.
+Das Format für Datum oder Uhrzeit muss bei den Optionen der Zeitreihe definiert werden (siehe auch [Zeitreihen](2admin_timelines.md).
 
 #### Jahr
 Bitte das Jahr für den Eintrag eingeben (optional). Entsprechend der Vorlage bzw. den Einstellungen bei der jeweiligen Vorlage wird dies angezeigt oder nicht.
