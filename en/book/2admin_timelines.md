@@ -32,6 +32,9 @@ If the number of characters is limited, on user side will be shown only this num
 #### Show date/time
 If the template supports the display of date or time of an item you can decide, whether you want to display nothing, only the date or only the time or both.
 
+#### Use magnific popup
+Please define, whether you want to use jquery magnific-popup for zooming the item images.
+
 #### Online
 Select, whether the timeline should be shown on userside
  

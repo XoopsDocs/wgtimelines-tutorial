@@ -33,6 +33,9 @@ Sofern eine Zeichenbegrenzung festgelegt wurde, werden auf der Userseite maximal
 #### Datum/Uhrzeit anzeigen
 Wenn die Vorlage dies unterstützt können Sie entscheiden, ob Sie das Datum eines Eintrages anzeigen wollen, und zwar nur das Datum oder nur die Uhrzeit oder beides.
 
+#### Magnific Popup verwenden
+Definieren Sie bitte, ob die Bilder bei den Einträgen mittels jquery magnific-popup gezoomt werden können sollen.
+
 #### Online
 Bitte festlegen, ob die Zeitreihe bereits auf der Userseite angezeigt werden soll.
  

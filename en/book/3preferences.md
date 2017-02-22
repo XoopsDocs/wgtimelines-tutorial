@@ -62,6 +62,3 @@ Allow Disqus comments in the single page
 
 #### Start page
 Define, what should be shown when calling the module (index.php)
-
-#### Use magnific popup
-Please define, whether you want to use jquery magnific-popup for zooming the item images
