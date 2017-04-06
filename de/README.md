@@ -2,7 +2,7 @@
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
 # Module wgTimelines
-#### Version: 1.09
+#### Version: 1.10
 #### für XOOPS 2.5.7/XOOPS 2.5.8
 #### für PHP 5.5, 5.6 und 7.0
       
@@ -42,4 +42,4 @@ Fast alle Templates sind voll responsive (für alle Medien geeignet).
 
 Alle Derivate sind Teil von XOOPS Project <a rel="xoops" href="http://www.xoops.org">www.xoops.org</a>
 
-####Bedienungsanleitung Version: 1.3
+####Bedienungsanleitung Version: 1.4

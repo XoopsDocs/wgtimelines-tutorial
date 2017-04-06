@@ -51,14 +51,5 @@ Definieren Sie bitte die maximale Größe für einen Dateiupload. Sie müssen de
 #### Mime-Types
 Definieren Sie bitte die zulässigen Dateitypen für einen Dateiupload.
 
-#### Social Bookmarks
-Social Bookmarks in den Seiten anzeigen
-
-#### Facebook-Kommentare
-Facebook-Kommentare in den Seiten zulassen
-
-#### Disqus-Kommentare
-Disqus-Kommentare in den Seiten zulassen
-
 #### Startseite
 Definieren Sie bitte, welche Informationen beim Modulaufruf (index.php) angezeigt werden sollen

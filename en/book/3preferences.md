@@ -51,14 +51,5 @@ Please define the maximum file size foruploads file. You have to enter the value
 #### Mime-Types
 Define which mime-types are allowed for file upload.
 
-#### Social Bookmarks
-Show Social Bookmarks in the single page
-
-#### Facebook comments
-Allow Facebook comments in the single page
-
-#### Disqus comments
-Allow Disqus comments in the single page
-
 #### Start page
 Define, what should be shown when calling the module (index.php)
