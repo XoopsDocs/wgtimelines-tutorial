@@ -1,7 +1,7 @@
 # Table of contents
 
-* [ENGLISH](README.md)
-	* [Introduction](README.md)
+* [ENGLISH](english/README.md)
+	* [Introduction](english/README.md)
 	* [Install/Uninstall](english/book/1install.md)
 	* [Administration Menu](english/book/2administration.md)
 	   * [Timelines](english/book/2admin_timelines.md)
