@@ -1,45 +1,53 @@
-### _XOOPS Documentation Series_
-![logoXoops.jpg](en/assets/logoXoops.jpg)
+# Introduction
 
-# Module wgTimelines
+![logoXoops.jpg](.gitbook/assets/logoxoops.jpg)
+
+## Module wgTimelines
+
 #### Version: 1.09
+
 #### for XOOPS 2.5.7/XOOPS 2.5.8
+
 #### for PHP 5.5, 5.6 and 7.0
 
-![logoModule.png](en/assets/logoModule.png)
-            
-## User Manual
+![logoModule.png](.gitbook/assets/logomodule.png)
 
-© 2014 The XOOPS Project (www.xoops.org)    
+### User Manual
 
-## Module Purpose 
+© 2014 The XOOPS Project \(www.xoops.org\)
+
+### Module Purpose
 
 This module is for presentation of timelines.
 
-You can defined various timelines and decide between different styles (html, bootstrap timelines, slider,...) for displaying them.
+You can defined various timelines and decide between different styles \(html, bootstrap timelines, slider,...\) for displaying them.
 
 Almost all templates on user side are fully responsive.
 
->![](en/assets/info/important.png) **This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
+> ![](.gitbook/assets/important.png) **This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
 
-![0dashboard1.png](en/assets/0dashboard.png)<br/>
-*Figure 1: Main view of the wgTimelines Module (Admin side)*
+  
+ _Figure 1: Main view of the wgTimelines Module \(Admin side\)_
 
-# Table of Content
+![0dashboard1.png](.gitbook/assets/0dashboard.png)
 
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Module Credits](en/book/9credits.md)
+## Table of Content
 
-##License:
+* [Install/Uninstall](install-uninstall.md)
+* [Administration Menu](administration-menu/)
+* [Preferences](https://github.com/xoops/wgtimelines-tutorial/tree/a0adef0b003de4cd9200069325d8c416a98ff15b/en/book/3preferences.md)
+* [Operating Instructions](operating-instructions.md)
+* [The User Side](the-user-side.md)
+* [Blocks](blocks.md)
+* [Templates](templates.md)
+* [Module Credits](module-credits.md)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+### License:
 
-All derivative works are to be attributed to XOOPS Project (www.xoops.org)
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-####Tutorial Version: 1.3
+All derivative works are to be attributed to XOOPS Project \(www.xoops.org\)
+
+#### Tutorial Version: 1.3
+
