@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [ENGLISH](english/README.md)
+  * [Table of contents](english/SUMMARY.md)
   * [Introduction](english/introduction.md)
   * [Install/Uninstall](english/install-uninstall.md)
   * [Administration Menu](english/administration-menu/README.md)
@@ -18,6 +19,7 @@
   * [Module Credits](english/module-credits.md)
   * [About XOOPS CMS](english/about-xoops-cms.md)
 * [DEUTSCH](deutsch/README.md)
+  * [Inhaltsverzeichnis](deutsch/SUMMARY.md)
   * [Einleitung](deutsch/einleitung.md)
   * [\(De-\)Installation](deutsch/de-installation.md)
   * [Administrationsbereich](deutsch/administrationsbereich/README.md)
