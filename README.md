@@ -1,6 +1,6 @@
 # Introduction
 
-![logoXoops.jpg](.gitbook/assets/logoxoops.jpg)
+![logoXoops.jpg](.gitbook/assets/logoxoops%20%281%29.jpg)
 
 ## Module wgTimelines
 
@@ -10,7 +10,7 @@
 
 #### for PHP 5.5, 5.6 and 7.0
 
-![logoModule.png](.gitbook/assets/logomodule.png)
+![logoModule.png](.gitbook/assets/logomodule%20%283%29.png)
 
 ### User Manual
 
@@ -24,23 +24,23 @@ You can defined various timelines and decide between different styles \(html, bo
 
 Almost all templates on user side are fully responsive.
 
-> ![](.gitbook/assets/important.png) **This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
+> ![](.gitbook/assets/important%20%284%29.png) **This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
 
   
  _Figure 1: Main view of the wgTimelines Module \(Admin side\)_
 
-![0dashboard1.png](.gitbook/assets/0dashboard.png)
+![0dashboard1.png](.gitbook/assets/0dashboard%20%284%29.png)
 
 ## Table of Content
 
-* [Install/Uninstall](install-uninstall.md)
-* [Administration Menu](administration-menu/)
+* [Install/Uninstall]()
+* [Administration Menu]()
 * [Preferences](https://github.com/xoops/wgtimelines-tutorial/tree/a0adef0b003de4cd9200069325d8c416a98ff15b/en/book/3preferences.md)
-* [Operating Instructions](operating-instructions.md)
-* [The User Side](the-user-side.md)
-* [Blocks](blocks.md)
-* [Templates](templates.md)
-* [Module Credits](module-credits.md)
+* [Operating Instructions]()
+* [The User Side]()
+* [Blocks]()
+* [Templates]()
+* [Module Credits]()
 
 ### License:
 
