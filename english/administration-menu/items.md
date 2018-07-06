@@ -4,7 +4,7 @@ You can define various members, which you can later combine with one or more tea
 
 ## 2.2.1 List items
 
-On the dashboard tab 'Items' you see a list of the existing items. ![](../../.gitbook/assets/2admin_items_list%20%282%29.png) You can change the sort order by drag&drop. Whether you use sort by date or weight you have to decide in the settings for the timelines \(see also [Timelines](https://github.com/XoopsDocs/wgtimelines-tutorial/tree/6494f8af8a8158a58e318b2c813f93144d5da27e/english/administration-menu/2admin_timelines.md)
+On the dashboard tab 'Items' you see a list of the existing items. ![](../../.gitbook/assets/2admin_items_list%20%282%29.png) You can change the sort order by drag&drop. Whether you use sort by date or weight you have to decide in the settings for the timelines \(see also [Timelines](timelines.md)
 
 ## 2.2.2 Add/edit items
 

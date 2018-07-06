@@ -5,7 +5,7 @@
 * [Administration Menu]()
   * [Timelines](administration-menu/)
   * [Items](administration-menu/items.md)
-  * [Templates](templates.md)
+  * [Timeline templates](timeline-templates.md)
   * [About](administration-menu/about.md)
   * [Help](administration-menu/help.md)
 * [Preferences](preferences.md)

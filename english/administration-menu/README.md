@@ -1,6 +1,6 @@
 # Administration Menu
 
-You can define various timelines, select a template for it \(see also [Templates](https://github.com/XoopsDocs/wgtimelines-tutorial/tree/6494f8af8a8158a58e318b2c813f93144d5da27e/english/administration-menu/2admin_templates.md)\) and add items \(see also [Items](https://github.com/XoopsDocs/wgtimelines-tutorial/tree/6494f8af8a8158a58e318b2c813f93144d5da27e/english/administration-menu/2admin_items.md)\).
+You can define various timelines, select a template for it \(see also [Templates](templates.md)\) and add items \(see also [Items](items.md)\).
 
 ## 2.1.1 List timelines
 
@@ -16,7 +16,7 @@ Please define the name of the timeline
 
 ## Description
 
-You can add for each timeline a description. It will be shown depending on your preferences \(see also [preferences](https://github.com/XoopsDocs/wgtimelines-tutorial/tree/6494f8af8a8158a58e318b2c813f93144d5da27e/english/administration-menu/2preferences.md)\).
+You can add for each timeline a description. It will be shown depending on your preferences \(see also [preferences](preferences.md)\).
 
 ## Image
 
