@@ -3,7 +3,7 @@
 * [Introduction](introduction.md)
 * [Install/Uninstall](install-uninstall.md)
 * [Administration Menu]()
-  * [Timelines](administration-menu/)
+  * [Timelines](administration-menu/timelines.md)
   * [Items](administration-menu/items.md)
   * [Timeline templates](timeline-templates.md)
   * [About](administration-menu/about.md)
@@ -12,7 +12,7 @@
 * [Operating Instructions](operating-instructions.md)
 * [The User Side](the-user-side.md)
 * [Blocks](blocks.md)
-* [Templates]()
+* [Templates](templates.md)
 * [Module Credits](module-credits.md)
 * [About XOOPS CMS](about-xoops-cms.md)
 
