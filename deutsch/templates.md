@@ -1,38 +1,42 @@
-# 7. Templates
+# Templates
 
 wgTimelines beinhaltet folgenden Templates/Vorlagen
 
-### 7.1 User-Templates
-* wgtimelines_breadcrumbs.tpl
-* wgtimelines_footer.tpl
-* wgtimelines_header.tpl
-* wgtimelines_index.tpl
-* wgtimelines_item_default.tpl
-* wgtimelines_item_table.tpl
-* wgtimelines_ratingbar.tpl
-* wgtimelines_rss.tpl
-* wgtimelines_timelines_animated.tpl
-* wgtimelines_timelines_animated_2.tpl
-* wgtimelines_timelines_bigpicture.tpl
-* wgtimelines_timelines_cleanhtml.tpl
-* wgtimelines_timelines_colorful.tpl
-* wgtimelines_timelines_crazycolors.tpl
-* wgtimelines_timelines_extended.tpl
-* wgtimelines_timelines_facebook.tpl
-* wgtimelines_timelines_simple.tpl
-* wgtimelines_timelines_single.tpl
-* wgtimelines_timelines_slider.tpl
-* wgtimelines_timelines_table.tpl
+## 7.1 User-Templates
 
-### 7.2 Block-Templates
-* wgtimelines_block_timelines.tpl
-* wgtimelines_block_items.tpl
+* wgtimelines\_breadcrumbs.tpl
+* wgtimelines\_footer.tpl
+* wgtimelines\_header.tpl
+* wgtimelines\_index.tpl
+* wgtimelines\_item\_default.tpl
+* wgtimelines\_item\_table.tpl
+* wgtimelines\_ratingbar.tpl
+* wgtimelines\_rss.tpl
+* wgtimelines\_timelines\_animated.tpl
+* wgtimelines\_timelines\_animated\_2.tpl
+* wgtimelines\_timelines\_bigpicture.tpl
+* wgtimelines\_timelines\_cleanhtml.tpl
+* wgtimelines\_timelines\_colorful.tpl
+* wgtimelines\_timelines\_crazycolors.tpl
+* wgtimelines\_timelines\_extended.tpl
+* wgtimelines\_timelines\_facebook.tpl
+* wgtimelines\_timelines\_simple.tpl
+* wgtimelines\_timelines\_single.tpl
+* wgtimelines\_timelines\_slider.tpl
+* wgtimelines\_timelines\_table.tpl
 
-### 7.3 Templates vom Adminbereich
-* wgtimelines_admin_about.tpl
-* wgtimelines_admin_footer.tpl
-* wgtimelines_admin_header.tpl
-* wgtimelines_admin_index.tpl
-* wgtimelines_admin_items.tpl
-* wgtimelines_admin_templates.tpl
-* wgtimelines_admin_timelines.tpl
+## 7.2 Block-Templates
+
+* wgtimelines\_block\_timelines.tpl
+* wgtimelines\_block\_items.tpl
+
+## 7.3 Templates vom Adminbereich
+
+* wgtimelines\_admin\_about.tpl
+* wgtimelines\_admin\_footer.tpl
+* wgtimelines\_admin\_header.tpl
+* wgtimelines\_admin\_index.tpl
+* wgtimelines\_admin\_items.tpl
+* wgtimelines\_admin\_templates.tpl
+* wgtimelines\_admin\_timelines.tpl
+

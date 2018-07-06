@@ -10,7 +10,7 @@
 
 #### für PHP 5.5, 5.6 und 7.0
 
-![logoModule.png](../.gitbook/assets/logomodule%20%282%29.png)
+![logoModule.png](../.gitbook/assets/logomodule%20%283%29.png)
 
 ### Bedienungsanleitung
 
@@ -26,7 +26,7 @@ Fast alle Templates sind voll responsive \(für alle Medien geeignet\).
 
 > ![](../.gitbook/assets/important%20%281%29.png) **Achtung:** Dieses Modul arbeitet nur in Kombination mit einem Bootstrap-Theme, oder sie müssen die Bootstrap-Dateien manuell in ihrem Theme einbinden.
 
-![0dashboard.png](../.gitbook/assets/0dashboard%20%282%29.png)  
+![0dashboard.png](../.gitbook/assets/0dashboard%20%283%29.png)  
  _Figure 1: Hauptübersicht des Moduls wgTimelines \(Admin-Bereich\)_
 
 ## Inhaltsverzeichnis

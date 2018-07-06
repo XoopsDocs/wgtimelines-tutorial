@@ -10,7 +10,7 @@
 
 #### for PHP 5.5, 5.6 and 7.0
 
-![logoModule.png](../.gitbook/assets/logomodule.png)
+![logoModule.png](../.gitbook/assets/logomodule%20%281%29.png)
 
 ### User Manual
 
@@ -24,9 +24,9 @@ You can defined various timelines and decide between different styles \(html, bo
 
 Almost all templates on user side are fully responsive.
 
-> ![](../.gitbook/assets/important%20%283%29.png) **Attention:**This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.\*\*
+> ![](../.gitbook/assets/important%20%284%29.png) **Attention:**This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.\*\*
 
-![0dashboard1.png](../.gitbook/assets/0dashboard%20%281%29.png)  
+![0dashboard1.png](../.gitbook/assets/0dashboard%20%282%29.png)  
  _Figure 1: Main view of the wgTimelines Module \(Admin side\)_
 
 ## Table of Content

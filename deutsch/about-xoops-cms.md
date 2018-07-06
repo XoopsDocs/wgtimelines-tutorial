@@ -1,8 +1,6 @@
 # About XOOPS CMS
 
-
-
-![](./assets/logoXoops.jpg)
+![](../.gitbook/assets/logoxoops%20%285%29.jpg)
 
 ## 10.0 About XOOPS CMS
 
@@ -22,7 +20,7 @@ It is highly scalable, from a personal weblog or journal through a community web
 
 The standard pronunciation of XOOPS follows English rules, and is pronounced \[zoo'ps\].
 
-#### **Key features of XOOPS**
+### **Key features of XOOPS**
 
 **Database-driven**
 
@@ -52,13 +50,13 @@ XOOPS comes with a powerful and user-friendly permissions system which enables a
 
 XOOPS is driven by a powerful theme system. Both administrators and users can change the look of the entire web site with just a click of a mouse. There are also over 60 themes available for download!!
 
-**XOOPS has received numerous awards:** 
+**XOOPS has received numerous awards:**
 
 It was a Finalist for the Best Project of SourceForge 2008 Community Awards and finalist for Best PHP Open Source CMS organized by Packt Publishing. In addition, XOOPS received Awards from “Adobe Edge” as a Top CMS, received 5 out of 5 Stars from Germany's CHIP Magazine, or placed as a top CMS on a list published by ONDD.
 
 XOOPS has over 6,600,000 downloads from the SourceForge Website.
 
-#### **The current development is on GitHub:** 
+### **The current development is on GitHub:**
 
 To see what's coming, please check out our **XOOPS GitHub repositories**:
 

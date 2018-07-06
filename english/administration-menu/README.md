@@ -1,25 +1,40 @@
-# 2.0 Administration Menu
+# Administration Menu
 
-## 2.0.1 Menu
-There are seven (7) menu options on top.  These can be seen in the graphic below above the Module’s Administration tabs.  The menu options available are described in the table below.
+You can define various timelines, select a template for it \(see also [Templates](https://github.com/XoopsDocs/wgtimelines-tutorial/tree/6494f8af8a8158a58e318b2c813f93144d5da27e/english/administration-menu/2admin_templates.md)\) and add items \(see also [Items](https://github.com/XoopsDocs/wgtimelines-tutorial/tree/6494f8af8a8158a58e318b2c813f93144d5da27e/english/administration-menu/2admin_items.md)\).
 
-|Option|	Action|
-|---|---|
-|Preferences|	Here you can configure your preferences for the module |
-|Update|	Click here if you’ve made some changes to the module, uploaded new files, etc. – this will recompile the module and update all entries in the database |
-|Blocks|	When you click here, it will redirect you to the Blocks section of XOOPS, and select the blocks related to your module|
-|Templates|	Here you can modify the standard module templates using the XOOPS Template manager|
-|Comments|	This module does not support Comments so the link takes you the XOOPS Comment manager|
-|Uninstall	|Links to the module uninstall option, the same as clicking the “red arrow” on the module administration page|
-|Go to module|	If the module is visible on the user side, this will take you there|
+## 2.1.1 List timelines
 
-## 2.0.2 Dashboard
-On the dashboard you get a short overview about the functionalities and the content of the module.
-![0dashboard1.png](../assets/0dashboard1.png)
+On the dashboard tab 'Timelines' you see a list of the existing timelines. ![](../../.gitbook/assets/2admin_timelines_list.png) You can sort the timelines simply by drag&drop.
 
-## 2.0.3 Functionalities for admins:
-* [Timelines](timelines.md)
-* [Items](items.md)
-* [Templates](templates.md)
-* [About](about.md)
-* [Help](help.md)
+## 2.1.2 Add/edit timelines
+
+![](../../.gitbook/assets/2admin_timelines_add%20%281%29.png)
+
+## Name
+
+Please define the name of the timeline
+
+## Description
+
+You can add for each timeline a description. It will be shown depending on your preferences \(see also [preferences](https://github.com/XoopsDocs/wgtimelines-tutorial/tree/6494f8af8a8158a58e318b2c813f93144d5da27e/english/administration-menu/2preferences.md)\).
+
+## Image
+
+Additonally you can upload a logo/picture for your timeline.
+
+## Template
+
+Please select the prefered template for your timeline
+
+## Sort by
+
+Select the sort order for displaying on user side
+
+## Limit of characters
+
+If the number of characters is limited, on user side will be shown only this number of characters. If exceeding this limit, a "Read more"-link will be shown. 0 means no limit.
+
+## Online
+
+Select, whether the timeline should be shown on userside
+

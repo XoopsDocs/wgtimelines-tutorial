@@ -1,34 +1,40 @@
-### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+# Introduction
 
-# Module wgTimelines
+![logoXoops.jpg](../.gitbook/assets/logoxoops%20%286%29.jpg)
+
+## Module wgTimelines
+
 #### Version: 1.10
+
 #### for XOOPS 2.5.7/XOOPS 2.5.8
+
 #### for PHP 5.5, 5.6 and 7.0
 
-![logoModule.png](assets/logoModule.png)
-            
-## User Manual
+![logoModule.png](../.gitbook/assets/logomodule.png)
 
-© 2014 The XOOPS Project (www.xoops.org)    
+### User Manual
 
-## Module Purpose 
+© 2014 The XOOPS Project \(www.xoops.org\)
+
+### Module Purpose
 
 This module is for presentation of timelines.
 
-You can defined various timelines and decide between different styles (html, bootstrap timelines, slider,...) for displaying them.
+You can defined various timelines and decide between different styles \(html, bootstrap timelines, slider,...\) for displaying them.
 
 Almost all templates on user side are fully responsive.
 
->![](./assets/info/important.png) **Attention:**This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
+> ![](../.gitbook/assets/important%20%282%29.png) **Attention:**This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.\*\*
 
-![0dashboard1.png](assets/0dashboard.png)<br/>
-*Figure 1: Main view of the wgTimelines Module (Admin side)*
+![0dashboard1.png](../.gitbook/assets/0dashboard.png)  
+ _Figure 1: Main view of the wgTimelines Module \(Admin side\)_
 
-##License:
+### License:
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project (www.xoops.org)
+All derivative works are to be attributed to XOOPS Project \(www.xoops.org\)
 
-####Tutorial Version: 1.4
+#### Tutorial Version: 1.4
+
