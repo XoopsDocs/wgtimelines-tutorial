@@ -8,7 +8,7 @@ For presenting a timeline do following:
 * [Set timeline online](2admin_timelines.md)
 
 ## Breadcrumb-Menu
-![](../assets/4breadcrumb.png)
+![](./assets/4breadcrumb.png)
 
 The breadcrumb menu is created by Xoops Core:
 `$xoBreadcrumbs[] = array('title' => _MA_WGTIMELINES_TITLE, 'link' => WGTIMELINES_URL . '/');`

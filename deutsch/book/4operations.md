@@ -8,7 +8,7 @@ Für eine Erstellung und Präsentation ihres Zeitreihe müssen Sie folgendes mac
 * [Die Zeitreihe online stellen](2admin_timelines.md)
 
 ## Breadcrumb-Leiste
-![](../assets/4breadcrumb.png)
+![](./assets/4breadcrumb.png)
 
 Die Breadcrumb-Leiste wird durch das Xoops-System erstellt:
 `$xoBreadcrumbs[] = array('title' => _MA_WGTIMELINES_TITLE, 'link' => WGTIMELINES_URL . '/');`

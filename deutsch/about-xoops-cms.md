@@ -2,7 +2,7 @@
 
 
 
-![](../assets/logoXoops.jpg)
+![](./assets/logoXoops.jpg)
 
 ## 10.0 About XOOPS CMS
 

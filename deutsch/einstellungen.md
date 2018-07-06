@@ -2,7 +2,7 @@
 
 In den Moduleinstellungen können Sie verschiedene Optionen festlegen:<br/>
 
-![](../assets/3preferences.png)
+![](./assets/3preferences.png)
 
 ## 3.1 Optionen im Detail
 #### Schlüsselwörter

@@ -15,7 +15,7 @@ Im oberen Bereich befinden sich 7 Menüpunkte.
 
 ## 2.0.2 Übersicht
 Auf der Hauptübersicht erhalten Sie Informationen über die Funktionen und den Inhalt des Moduls.
-![0dashboard.png](../assets/0dashboard.png)
+![0dashboard.png](./assets/0dashboard.png)
 
 ## 2.0.3 Funktionalitäten für Administratoren:
 * [Zeitreihen](2admin_timelines.md)

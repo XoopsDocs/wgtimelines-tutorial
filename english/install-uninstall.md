@@ -7,12 +7,12 @@ Detailed instructions on installing modules are available in the [XOOPS Operatio
 - Extract folder 'wgtimelines' in your module directory
 - Log in as admin and goto admin area
 - Install the module through Admin -> Modules -> Install Modules
-![](../assets/1install.png)<br/>
+![](./assets/1install.png)<br/>
 *Figure 2 Module administration and install*
 - configure the module
 - the next steps are setting the rights under System --> Groups.
 
 #### 1.2 Uninstall
 To uninstall the module, just click on the red arrow
-![](../assets/1uninstall.png)<br/>
+![](./assets/1uninstall.png)<br/>
 *Figure 3 The Module Administration and un-install*
