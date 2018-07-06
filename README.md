@@ -31,17 +31,6 @@ Almost all templates on user side are fully responsive.
 
 ![0dashboard1.png](.gitbook/assets/0dashboard%20%284%29.png)
 
-## Table of Content
-
-* [Install/Uninstall]()
-* [Administration Menu]()
-* [Preferences](https://github.com/xoops/wgtimelines-tutorial/tree/a0adef0b003de4cd9200069325d8c416a98ff15b/en/book/3preferences.md)
-* [Operating Instructions]()
-* [The User Side]()
-* [Blocks]()
-* [Templates]()
-* [Module Credits]()
-
 ### License:
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
@@ -49,7 +38,7 @@ Unless specified, this content is licensed under a [Creative Commons Attribution
 
 All derivative works are to be attributed to XOOPS Project \(www.xoops.org\)
 
-#### Tutorial Version: 1.3
+#### Tutorial Version: 1.4
 
 
 
