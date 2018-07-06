@@ -2,7 +2,7 @@
 
   * [Einleitung](einleitung.md)
   * [\(De-\)Installation](de-installation.md)
-  * [Administrationsbereich](administrationsbereich/README.md)
+  * [Administrationsbereich](administrationsbereich/zeitreihen.md)
     * [Zeitreihen](administrationsbereich/zeitreihen.md)
     * [Einträge](administrationsbereich/eintraege.md)
     * [Vorlagen](administrationsbereich/vorlagen.md)
