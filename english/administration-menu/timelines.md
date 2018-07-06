@@ -4,11 +4,11 @@ You can define various timelines, select a template for it (see also [Templates]
 
 #### 2.1.1 List timelines
 On the dashboard tab 'Timelines' you see a list of the existing timelines.
-![](./assets/2admin_timelines_list.png)
+![](../assets/2admin_timelines_list.png)
 You can sort the timelines simply by drag&drop.
 
 #### 2.1.2 Add/edit timelines
-![](./assets/2admin_timelines_add.png)
+![](../assets/2admin_timelines_add.png)
 
 #### Name
 Please define the name of the timeline

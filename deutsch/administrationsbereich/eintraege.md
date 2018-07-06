@@ -4,11 +4,11 @@ Sie können beliebig viele Einträge definieren, die Sie einer bestimmten Zeitre
 
 #### 2.2.1 Liste der Einträge
 Auf den Registerblatt 'Einträge' sehen Sie eine Auflistung aller bereits existierenden Einträge.
-![](./assets/2admin_items_list.png)
+![](../assets/2admin_items_list.png)
 Die Reihung der Einträge kann mit Drag&Drop geändert werden. Ob die Reihung entsprechend der Anzeige oder nach dem Datum erfolgt, muss bei den Einstellungen der Zeitreihe definiert werden (siehe auch [Zeitreihen](2admin_timelines.md)).
 
 #### 2.2.2 Einträge hinzufügen/bearbeiten
-![](./assets/2admin_items_add.png)
+![](../assets/2admin_items_add.png)
 
 #### Zeitreihe
 Bitte die Zeitreihe wählen, der dieser Eintrag zugeordnet werden

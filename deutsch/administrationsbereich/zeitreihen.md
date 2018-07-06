@@ -4,12 +4,12 @@ Sie können beliebig viele Zeitreihen erstellen, diese einer bestimmten Vorlage 
 
 #### 2.1.1 Liste der Zeitreihen
 Auf den Registerblatt 'Zeitreihen' sehen Sie eine Auflistung aller bereits existierenden Zeitreihen oder Chroniken.
-![](./assets/2admin_timelines_list.png)
+![](../assets/2admin_timelines_list.png)
 
 Die Reihenfolge der Zeitreihen kann mittels Drag&Drop geändert werden.
 
 #### 2.1.2 Zeitreihe hinzufügen/bearbeiten
-![](./assets/2admin_timelines_add.png)
+![](../assets/2admin_timelines_add.png)
 
 #### Name
 Bitte Name für Zeitreihe definieren
