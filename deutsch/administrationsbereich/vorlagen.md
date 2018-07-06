@@ -8,7 +8,7 @@ Auf den Registerblatt 'Vorlagen' sehen Sie eine Auflistung aller bereits festgel
 
 ## 2.3.2 Vorlagen bearbeiten
 
-![](../../.gitbook/assets/2admin_templates_edit%20%281%29.png)
+![](../../.gitbook/assets/2admin_templates_edit%20%282%29.png)
 
 Abhängig von der Vorlage können unterschiedliche Optionen, wie z.B. Bildstyle, Farbe, usw. geändert werden.
 
@@ -34,11 +34,11 @@ Author der Vorlage
 
 ## Symbolerläuterungen:
 
-![](../../.gitbook/assets/newtemplate.png) Eine neue Vorlage ist verfügbar
+![](../../.gitbook/assets/newtemplate%20%281%29.png) Eine neue Vorlage ist verfügbar
 
-![](../../.gitbook/assets/newversion.png) Eine neue Version dieser Vorlage ist verfügbar. Zum Aktualisieren klicken Sie auf das Symbol.
+![](../../.gitbook/assets/newversion%20%281%29.png) Eine neue Version dieser Vorlage ist verfügbar. Zum Aktualisieren klicken Sie auf das Symbol.
 
 ![](../../.gitbook/assets/notsupported%20%281%29.png) Diese Vorlage wird vom Entwicklerteam nicht mehr unterstützt. Es wird empfohlen, nur unterstützte Vorlage zu verwenden.
 
-![](../../.gitbook/assets/reset%20%281%29.png) Sie können die Standardwerte der Vorlage wiederherstellen.
+![](../../.gitbook/assets/reset%20%282%29.png) Sie können die Standardwerte der Vorlage wiederherstellen.
 

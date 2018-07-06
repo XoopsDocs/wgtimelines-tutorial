@@ -40,3 +40,5 @@ wgTimelines beinhaltet folgenden Templates/Vorlagen
 * wgtimelines\_admin\_templates.tpl
 * wgtimelines\_admin\_timelines.tpl
 
+test
+
