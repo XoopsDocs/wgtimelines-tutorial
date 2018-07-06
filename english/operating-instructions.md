@@ -4,10 +4,10 @@
 
 For presenting a timeline do following:
 
-* [Create a timeline](timelines.md)
-* [Add your items for each timeline](items.md)
-* [Adopt, if you want, the template you want use](timeline-templates.md)
-* [Set timeline online](timelines.md)
+* [Create a timeline](https://github.com/XoopsDocs/wgtimelines-tutorial/tree/a7289f7fbc38280d0a8e2ccfe626630daa56056b/english/timelines.md)
+* [Add your items for each timeline](https://github.com/XoopsDocs/wgtimelines-tutorial/tree/a7289f7fbc38280d0a8e2ccfe626630daa56056b/english/items.md)
+* [Adopt, if you want, the template you want use](https://github.com/XoopsDocs/wgtimelines-tutorial/tree/a7289f7fbc38280d0a8e2ccfe626630daa56056b/english/timeline-templates.md)
+* [Set timeline online](https://github.com/XoopsDocs/wgtimelines-tutorial/tree/a7289f7fbc38280d0a8e2ccfe626630daa56056b/english/timelines.md)
 
 ## Breadcrumb-Menu
 

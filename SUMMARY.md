@@ -8,7 +8,7 @@
   * [Administration Menu](english/administration-menu/README.md)
     * [Timelines](english/administration-menu/timelines.md)
     * [Items](english/administration-menu/items.md)
-    * [Timeline templates](administration-menu/timeline-templates.md)
+    * [Timeline templates](english/administration-menu/timeline-templates.md)
     * [About](english/administration-menu/about.md)
     * [Help](english/administration-menu/help.md)
   * [Preferences](english/preferences.md)
